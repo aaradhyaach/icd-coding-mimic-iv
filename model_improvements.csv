@@ -1,0 +1,5 @@
+metric,baseline,transformer,absolute_improvement
+Micro-F1,0.5303,0.3917,-0.1387
+Macro-F1,0.4179,0.3769,-0.041
+Precision@5,0.5695,0.3977,-0.1719
+Recall@5,0.6123,0.4275,-0.1848
