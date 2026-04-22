@@ -25,6 +25,10 @@ latter sections of long discharge summaries — consistent with Edin et al. (202
 
 ## Data Access
 
+Datasets:
+https://physionet.org/content/mimiciv/3.1/
+https://physionet.org/content/mimic-iv-note/2.2/
+
 This project uses **MIMIC-IV v2.2** and **MIMIC-IV-Note v2.2**, which require:
 1. A credentialed PhysioNet account: https://physionet.org
 2. Completion of the CITI "Data or Specimens Only Research" training
