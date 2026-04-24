@@ -37,5 +37,3 @@ This project uses **MIMIC-IV v2.2** and **MIMIC-IV-Note v2.2**, which require:
 2. Completion of the CITI "Data or Specimens Only Research" training
 3. Signing the data use agreement for each dataset
 
-Data files are **not included** in this repository. After access is granted,
-place files as follows:
